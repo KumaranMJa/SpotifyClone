@@ -43,39 +43,40 @@ const songs = [
     },
     {
         id:"8",
-        songName: `Suna Hai <br><div class="subtitle">Neha Kakker</div>`,
+        songName: `Ella Pugazhum <br><div class="subtitle">ARR</div>`,
         poster: "img/8.jpg",
     },
     {
         id:"9",
-        songName: `Dilber <br><div class="subtitle">Satyameva Jayate</div>`,
+        songName: `Siva Sivaya <br><div class="subtitle">Vaikom</div>`,
         poster: "img/9.jpg",
     },
     {
         id:"10",
-        songName: `Duniya <br><div class="subtitle">Luka Chuppi</div>`,
+        songName: `Life of Ram <br><div class="subtitle">Pradeep</div>`,
         poster: "img/10.jpg",
     },
     {
         id:"11",
-        songName: `Lagdi Lahore Di <br><div class="subtitle">Street Dancer 3D</div>`,
+        songName: `Journey <br><div class="subtitle">Nobin Paul</div>`,
         poster: "img/11.jpg",
     },
     {
         id:"12",
-        songName: `Putt Jatt Da <br><div class="subtitle">Putt Jatt Da</div>`,
+        songName: `Thathaka Therithare <br><div class="subtitle">Prithiviraj</div>`,
         poster: "img/12.jpg",
     },
     {
         id:"13",
-        songName: `Baarishein <br><div class="subtitle">Atif Aslam</div>`,
+        songName: `Missing Me <br><div class="subtitle">Dhuruv Vikram</div>`,
         poster: "img/13.jpg",
     },
     {
         id:"14",
-        songName: `Vaaste <br><div class="subtitle">Dhvani Bhanushali</div>`,
+        songName: `Natpu <br><div class="subtitle">Anirudh</div>`,
         poster: "img/14.jpg",
     },
+
     {
         id:"15",
         songName: `Lut Gaye <br><div class="subtitle">Jubin Nautiyal</div>`,
